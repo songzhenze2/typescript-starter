@@ -1,0 +1,14 @@
+{
+    // "editor.formatOnSave": false,
+    // "editor.tabSize": 2,
+    // "breadcrumbs.enabled": true,
+    // "javascript.updateImportsOnFileMove.enabled": "always",
+    // "files.watcherExclude": {
+    //   "**/.git/objects/**": true,
+    //   "**/.git/subtree-cache/**": true,
+    //   "**/node_modules/**": true
+    // },
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+    }
+  }
